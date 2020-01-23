@@ -5,5 +5,8 @@ public class LogInPage {
 		
 System.out.println("LogIn page");
 	}
-
+	
+public void setIn() {
+	System.out.println("SetIn");
+}
 }
